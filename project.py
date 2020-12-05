@@ -11,9 +11,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
 import string
 
-nltk.download("stopwords")
-nltk.download("word_tokenize")
-
 def combine_sim(p, all):
     combined = p
     for answer in all:
