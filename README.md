@@ -8,7 +8,7 @@ The only way to use this script as of now is via the CLI
 clone this repository
 
 ```sh 
-pip install requirements.txt
+pip install nltk sklearn tesnsorflow bs4 requests
 ```
 
 After installing the dependencies
