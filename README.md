@@ -1,6 +1,6 @@
 # genius
 
-A pyhton script that writes an essay for a given question
+A Python script that writes an essay for a given question
 
 ## usage
 The only way to use this script as of now is via the CLI
